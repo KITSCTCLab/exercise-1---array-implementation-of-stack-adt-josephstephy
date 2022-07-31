@@ -33,4 +33,3 @@ for line in range(queries):
         stack.pop()
 stack.status()
 
-
